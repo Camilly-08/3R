@@ -1,0 +1,83 @@
+# 📄 Documento de Requisitos – Projeto 3R
+
+## Projeto: 3R – Recomeçar, Reconstruir e Renascer  
+**Versão:** 1.0  
+**Cliente:** Projeto acadêmico (IFPR)  
+**Data:** (colocar data)
+
+---
+
+## A – Visão Geral do Sistema
+
+O sistema 3R consiste em uma plataforma web desenvolvida com o objetivo de auxiliar na reinserção social de egressos do sistema prisional no mercado de trabalho. A plataforma permitirá o acesso a oportunidades de emprego, cursos de qualificação profissional e ferramentas para elaboração de currículos.
+
+O sistema também atuará como ponte entre empresas, administradores e egressos, promovendo inclusão social e facilitando o acesso à informação e ao mercado profissional.
+
+---
+
+## B – Requisitos Funcionais
+
+- **REF01:** O sistema deve permitir o cadastro de usuários (egressos, empresas e administradores).  
+- **REF02:** O sistema deve permitir login e autenticação de usuários.  
+- **REF03:** O sistema deve disponibilizar vagas de emprego cadastradas por empresas.  
+- **REF04:** O sistema deve permitir que empresas cadastrem e gerenciem vagas.  
+- **REF05:** O sistema deve permitir que usuários visualizem e busquem vagas de emprego.  
+- **REF06:** O sistema deve disponibilizar cursos de qualificação profissional gratuitos.  
+- **REF07:** O sistema deve permitir a criação e download de currículos.  
+- **REF08:** O sistema deve disponibilizar informações sobre direitos dos egressos.  
+- **REF09:** O sistema deve permitir a navegação entre páginas (home, vagas, cursos, currículo, etc.).  
+- **REF10:** O sistema deve permitir que administradores gerenciem conteúdos da plataforma.  
+
+---
+
+## C – Requisitos Não Funcionais
+
+### C1 – Confiabilidade
+- **RNF01:** O sistema deve manter os dados dos usuários armazenados com segurança.  
+- **RNF02:** O sistema deve possuir tratamento de falhas, como perda de conexão.  
+
+### C2 – Performance
+- **RNF03:** O sistema deve responder às requisições em até 3 segundos.  
+- **RNF04:** O sistema deve suportar múltiplos acessos simultâneos.  
+
+### C3 – Portabilidade
+- **RNF05:** O sistema deve funcionar em navegadores modernos (Chrome, Edge, Firefox).  
+- **RNF06:** O sistema deve ser acessível em computadores e dispositivos móveis.  
+
+### C4 – Usabilidade
+- **RNF07:** O sistema deve possuir interface simples e intuitiva.  
+- **RNF08:** O sistema deve apresentar linguagem acessível ao usuário.  
+- **RNF09:** O sistema deve disponibilizar instruções básicas de uso.  
+
+### C5 – Manutenibilidade
+- **RNF10:** O sistema deve ser desenvolvido de forma modular para facilitar manutenção.  
+- **RNF11:** O sistema deve permitir atualização de conteúdo sem necessidade de alteração no código.  
+
+---
+
+## D – Regras de Negócio
+
+- **RNE01:** Apenas empresas cadastradas podem publicar vagas.  
+- **RNE02:** Apenas usuários cadastrados podem criar currículos.  
+- **RNE03:** Administradores são responsáveis pela validação e gerenciamento de conteúdos.  
+- **RNE04:** As vagas devem conter informações mínimas (cargo, descrição, requisitos).  
+
+---
+
+## E – Protótipo de Telas
+
+*(Adicionar imagens ou links futuramente)*
+
+- Página inicial  
+- Página de vagas  
+- Página de cursos  
+- Página de criação de currículo  
+- Tela de login/cadastro  
+
+---
+
+## F – Glossário
+
+- **Egresso:** Pessoa que saiu do sistema prisional.  
+- **Plataforma 3R:** Sistema digital voltado à reinserção social.  
+- **Currículo:** Documento com informações profissionais do usuário.  
