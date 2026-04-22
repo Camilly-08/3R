@@ -53,6 +53,6 @@ Instagram: @pro_jeto3r
 </p>
 
 <h3>Arquivo do Pré-Projeto realizado para a disciplina de orientação a TCC:</h3>
-<p align="justify"> [Baixar pré-projeto](./pre-projeto-tcc-3r.pdf)</p>
+<p align="justify"> [Baixar pré-projeto](pre-projeto-tcc-3r.pdf) </p>
 
 
