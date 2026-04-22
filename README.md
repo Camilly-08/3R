@@ -9,9 +9,9 @@
 <p align="justify">
 <strong>Texto Introdutório do projeto:</strong> <br> O processo de reinserção social de egressos do sistema prisional no Brasil apresenta desafios significativos, especialmente no que se refere ao acesso ao mercado de trabalho e à qualificação profissional. Após o cumprimento da pena, espera-se que esses indivíduos reconstruam suas trajetórias em liberdade; no entanto, fatores como o estigma social, a baixa escolaridade e a escassez de oportunidades dificultam esse recomeço, contribuindo para a manutenção de ciclos de exclusão e vulnerabilidade.
 
-Diante desse cenário, torna-se necessário o desenvolvimento de iniciativas que promovam a inclusão social e ampliem as possibilidades de inserção desses indivíduos no meio profissional. Nesse contexto, surge o projeto 3R — Recomeçar, Reconstruir e Renascer, que tem como objetivo propor uma solução tecnológica voltada ao apoio de egressos do sistema prisional em seu processo de reintegração ao mercado de trabalho.
+Diante desse cenário, torna-se necessário o desenvolvimento de iniciativas que promovam a inclusão social e visem auxiliar na amplieação da divulgação de possibilidades de inserção desses indivíduos no meio profissional. Nesse contexto, surge o projeto 3R — Recomeçar, Reconstruir e Renascer, que tem como objetivo propor uma ferramenta tecnológica que pretende apoiar egressos do sistema prisional em seu processo de reintegração ao mercado de trabalho.
 
-A proposta consiste na criação de uma plataforma digital que reúna, de forma acessível e organizada, informações sobre oportunidades de emprego, cursos de qualificação profissional e ferramentas para elaboração de currículos. Além disso, o sistema busca promover a conexão entre egressos, empresas e administradores, contribuindo para a redução das barreiras enfrentadas por essa população e incentivando a construção de novas perspectivas de vida..
+A proposta consiste na criação de uma plataforma digital que reúna, de forma acessível e organizada, informações sobre oportunidades de emprego, cursos de qualificação profissional e ferramentas para elaboração de currículos. Além disso, o sistema busca promover a conexão entre egressos e empresas, a fim de contribuir para a redução das barreiras enfrentadas por essa população e incentivar a construção de novas perspectivas de vida.
 </p>
 
 <p align="justify">
