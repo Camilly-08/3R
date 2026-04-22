@@ -51,3 +51,10 @@ Instagram: @pro_jeto3r
 <p align="justify">
 05/03/2026
 </p>
+
+<h3>Arquivo do Pré-Projeto realizado para a disciplina de orientação a TCC:</h3>
+<p align="justify">
+
+</p>
+
+
