@@ -14,11 +14,20 @@ O processo de reinserção social de egressos do sistema prisional no Brasil apr
 <p align="justify">
 Diante desse cenário, torna-se necessário o desenvolvimento de iniciativas que promovam a inclusão social e visem auxiliar na amplieação da divulgação de possibilidades de inserção desses indivíduos no meio profissional. Nesse contexto, surge o projeto 3R — Recomeçar, Reconstruir e Renascer, que tem como objetivo propor uma ferramenta tecnológica que pretende apoiar egressos do sistema prisional em seu processo de reintegração ao mercado de trabalho.
 </p>
-<p align="justify">
-A proposta consiste na criação de uma plataforma digital que reúna, de forma acessível e organizada, informações sobre oportunidades de emprego, cursos de qualificação profissional e ferramentas para elaboração de currículos. Além disso, o sistema busca promover a conexão entre egressos e empresas, a fim de contribuir para a redução das barreiras enfrentadas por essa população e incentivar a construção de novas perspectivas de vida.
-</p>
 
 <br>
+<h3>Objetivo geral do projeto</h3>
+<p align="justify">Analisar e propor uma ferramenta tecnológica que auxilie na reinserção social de egressos do sistema prisional ao mercado profissionalizante, por meio do desenvolvimento de uma plataforma digital que contribua com o acesso a informações como: oportunidades de emprego, qualificação profissional e elaboração de currículos.</p>
+<br>
+
+<h3>Objetivos Específicos</h3>
+<p align="justify"> Desenvolver uma interface web que permita a navegação entre as páginas da plataforma; <br>
+Integrar informações retiradas da Constituição Brasileira sobre os direitos básicos dos egressos e daqueles que ainda estão privados de liberdade à estrutura informativa do site; <br>
+Disponibilizar um sistema de cadastro voltado a administradores, empresas e egressos, visando à integração entre oferta e busca de oportunidades; <br>
+Implementar uma funcionalidade para criação e download de currículos, permitindo que os usuários elaborem seus próprios documentos profissionais; <br>
+Estruturar uma página de vagas de emprego com possibilidade de cadastro e atualização por empresas; <br>
+Organizar uma página de formação profissional com cursos gratuitos, categorizados por área de interesse.<br>
+</p>
 
 <h3 align="justify">
 <strong>Cores do projeto e Logo:</strong> 
@@ -37,7 +46,6 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 </p>
 
 <br>
-
 <h3>Redes Sociais</h3>
 
 <p align="justify">
@@ -61,7 +69,5 @@ Instagram: @pro_jeto3r
 <p align="justify">
 05/03/2026
 </p>
-
-
 
 
