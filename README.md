@@ -38,7 +38,7 @@ As cores são: Preto, Branco, Amarelo e Laranja.<br> A paleta visual equilibra o
 </p>
 
 <p align="justify">
-A logo é composta por um 3 e um R, que juntos simbolizam as três palavras que compõem o processo de reinserção social: Recomeçar, que simboliza a iniciativa de tentar de novo e não desistir, Reconstruir, que dialoga com a ideia de construir a própria vida do zero e a mais importante delas: RENASCER, uma palavra que mostra o abandono de uma antiga realidade e o nascimento de um novo ser.
+A logo é composta por um 3 e um R, que juntos simbolizam as três palavras que compõem o processo de reinserção social: Recomeçar, que simboliza a iniciativa de tentar de novo e não desistir, Reconstruir, que dialoga com a ideia de construir a própria vida do zero e a mais importante delas: RENASCER, uma palavra que mostra o abandono de uma antiga realidade e o nascimento de um novo ser, frequentemente pintada nas paredes dos presídios.
 </p> 
 
 <p align="justify">
