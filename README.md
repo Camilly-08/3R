@@ -69,6 +69,11 @@ Instagram: @pro_jeto3r
 <p align="justify">
 05/03/2026
 </p>
+<br>
+
+### PDF do PRÉ-PROJETO
+
+[![PDF do Pré-Projeto](https://shields.io)](pre-projeto-tcc-3r.pdf)
 
 Link do protótipo navegável: <https://www.figma.com/proto/qBxJYmyyWe2VA424Tap6CL/3R---Prot%C3%B3tipo-Naveg%C3%A1vel?node-id=11-250&t=EFUCJ8b2xo9JGJI2-1&starting-point-node-id=11%3A250>
 
