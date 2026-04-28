@@ -14,7 +14,7 @@ O processo de reinserção social de egressos do sistema prisional no Brasil apr
 <p align="justify">
 Diante desse cenário, torna-se necessário o desenvolvimento de iniciativas que promovam a inclusão social e visem auxiliar na amplieação da divulgação de possibilidades de inserção desses indivíduos no meio profissional. Nesse contexto, surge o projeto 3R — Recomeçar, Reconstruir e Renascer, que tem como objetivo propor uma ferramenta tecnológica que pretende apoiar egressos do sistema prisional em seu processo de reintegração ao mercado de trabalho.
 </p>
-<
+
 <br>
 <h3>Objetivo geral do projeto</h3>
 <p align="justify">Analisar e propor uma ferramenta tecnológica que auxilie na reinserção social de egressos do sistema prisional ao mercado profissionalizante, por meio do desenvolvimento de uma plataforma digital que contribua com o acesso a informações como: oportunidades de emprego, qualificação profissional e elaboração de currículos.</p>
