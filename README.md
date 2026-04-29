@@ -93,3 +93,9 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 [![PDF do Pré-Projeto](https://shields.io)](pre-projeto-tcc-3r.pdf)
 
 <br>
+
+### PDF do Documento de Requisitos 
+
+[![PDF do Documento de Requisitos ](https://shields.io)](documento_de_requisitos.docx.pdf)
+
+<br>
