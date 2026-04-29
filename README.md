@@ -123,7 +123,7 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 <h3>📅 Data de Criação do Projeto</h3>
 
 <p align="justify">
-05/03/2026
+04/12/2025
 </p>
 
 <br>
