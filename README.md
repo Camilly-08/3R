@@ -46,11 +46,7 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 </p>
 
 <br>
-<h3>Redes Sociais</h3>
-
-<p align="justify">
-Instagram: @pro_jeto3r
-</p>
+<h3>Redes Sociais</h3> (https://instagram.com/pro_jeto3r)
 
 <br>
 
