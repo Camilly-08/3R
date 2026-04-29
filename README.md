@@ -29,6 +29,9 @@ Estruturar uma página de vagas de emprego com possibilidade de cadastro e atual
 Organizar uma página de formação profissional com cursos gratuitos, categorizados por área de interesse.<br>
 </p>
 <br>
+<h3>Guia de Estilos:</h3>
+<img src="guia_estilo1.jpg.jpeg" alt="Descrição da imagem" width="500">
+<br>
 <h3 align="justify">
 <strong>Cores do projeto e Logo:</strong> 
 </h3>
