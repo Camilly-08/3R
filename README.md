@@ -96,7 +96,10 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 <h3>📱 Redes Sociais</h3>
 
 <p>
-📸 Instagram: <a href="https://instagram.com/pro_jeto3r">@pro_jeto3r</a>
+  <a href="https://instagram.com/pro_jeto3r">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="25"/>
+    @pro_jeto3r
+  </a>
 </p>
 
 <br>
