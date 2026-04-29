@@ -93,6 +93,3 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 [![PDF do Pré-Projeto](https://shields.io)](pre-projeto-tcc-3r.pdf)
 
 <br>
-<h3> Guia de estilos:</h3>
-<img src="guia_estilo.pdf" alt="Descrição da imagem" width="500">
-
