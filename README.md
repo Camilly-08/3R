@@ -29,8 +29,26 @@ Estruturar uma página de vagas de emprego com possibilidade de cadastro e atual
 Organizar uma página de formação profissional com cursos gratuitos, categorizados por área de interesse.<br>
 </p>
 <br>
+
+<h3>Tecnologias Utilizadas</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub">
+</p>
+
+
+<br>
+
 <h3>Guia de Estilos:</h3>
 <img src="guia_estilo1.jpg.jpeg" alt="Descrição da imagem" width="500">
+<img src="guia_estilo2.jpeg" alt="Descrição da imagem" width="500">
 <br>
 <h3 align="justify">
 <strong>Cores do projeto e Logo:</strong> 
@@ -50,8 +68,8 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 
 <br>
 <h3>Redes Sociais</h3> (https://instagram.com/pro_jeto3r)
-
 <br>
+<br> 
 
 <h3>Membros da Equipe e suas responsabilidades iniciais</h3>
 
@@ -60,21 +78,6 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 <strong> Guilherme Fontana:</strong> (Back-end Developer): Responsável pela "engrenagem" do site, cuidando do banco de dados dos egressos. <br>
 <strong>Rhuan:</strong> (UI/UX Design): Criou a identidade visual, o símbolo do sol e a paleta de cores (laranja/amarelo) que guia a experiência do usuário e escolherá os icons, fontes e estética do site.
 </p>
-
-<br>
-<h3>Tecnologias Utilizadas</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub">
-</p>
-
 
 <br>
 
