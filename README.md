@@ -91,8 +91,6 @@ Instagram: @pro_jeto3r
 [![PDF do Pré-Projeto](https://shields.io)](pre-projeto-tcc-3r.pdf)
 
 <br>
-### PDF do PRÉ-PROJETO
-
-[![PDF do Documento de Requisitos(https://shields.io)](Requisitos 2.0(1).pdf)
-Link do protótipo navegável: <https://www.figma.com/proto/qBxJYmyyWe2VA424Tap6CL/3R---Prot%C3%B3tipo-Naveg%C3%A1vel?node-id=11-250&t=EFUCJ8b2xo9JGJI2-1&starting-point-node-id=11%3A250>
+<h3> Guia de estilos:</h3>
+<img src="guia_estilo.pdf" alt="Descrição da imagem" width="500">
 
