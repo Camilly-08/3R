@@ -111,7 +111,11 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 
 <strong> Guilherme Fontana:</strong> (Back-end Developer) — Responsável pela "engrenagem" do site, cuidando do banco de dados dos egressos. <br><br>
 
-<strong> Rhuan:</strong> (UI/UX Design) — Criou a identidade visual, o símbolo do sol e a paleta de cores (laranja/amarelo) que guia a experiência do usuário e escolherá os ícones, fontes e estética do site.
+<strong> Rhuan:</strong> (UI/UX Design) — Criou a identidade visual, o símbolo do sol e a paleta de cores (laranja/amarelo) que guia a experiência do usuário e escolherá os ícones, fontes e estética do site. 
+
+<strong> Izaque Esteves da Silva:</strong> Orientador do projeto. <br><br> 
+
+<strong> Ariana Rodrigues Guides:</strong> Co-orientadora. <br><br>
 </p>
 
 <br>
