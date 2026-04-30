@@ -4,9 +4,7 @@
   <img src="https://github.com/user-attachments/assets/b8b79a7a-1e5d-4890-ac4d-44b6ebed7c6f" width="300" />
 </p>
 
-<p align="center">
-✨ Um novo começo, uma nova história ✨
-</p>
+
 
 <br>
 
