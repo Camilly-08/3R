@@ -142,4 +142,4 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 <a href="documento_de_requisitos.docx.pdf">📥 Baixar PDF</a>
 </p>
 
-Link do protótipo navegável:<https://www.figma.com/make/6HCueM96FumAR2IgahdYZ4/Home-Page-and-Navigation-Updates?t=BkVz7VqnjHktX0I0-1>
+Link do protótipo navegável:<https://www.figma.com/make/6HCueM96FumAR2IgahdYZ4/Home-Page-and-Navigation-Updates?fullscreen=1&t=4rR0uoCljeLMYcJX-1>
