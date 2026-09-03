@@ -139,9 +139,15 @@ O símbolo escolhido para a logo e consequentemente para representar o projeto f
 <a href="pre-projeto-tcc-3r.pdf">📥 Baixar PDF</a>
 </p>
 
+
 <p>
 📌 <strong>Documento de Requisitos:</strong><br>
 <a href="documento_de_requisitos.docx.pdf">📥 Baixar PDF</a>
 </p>
 
 Link do protótipo navegável:<https://www.figma.com/make/6HCueM96FumAR2IgahdYZ4/Home-Page-and-Navigation-Updates?fullscreen=1&t=4rR0uoCljeLMYcJX-1>
+
+<p>
+📌 <strong>Versão 1 Diagrama de Atividades e Casos de Uso</strong><br>
+<a href="etapa1_diagramas.pdf">📥 Baixar PDF</a>
+</p>
